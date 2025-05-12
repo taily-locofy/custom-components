@@ -1,0 +1,8 @@
+{
+  "components": [
+    "./src/components/FirstCustomComponent.tsx",
+  ],
+  "wrapper": "./src/Wrapper.tsx",
+  "webpack": "./webpack.locofy.js",
+  "publicPath": "./public/assets"
+}
